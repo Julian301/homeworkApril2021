@@ -27,4 +27,5 @@ c.method = function(){
 
 // using BRACKET NOTATION, call the method in c
 c.method()
+c.['method']()
 // print a, b, and c
